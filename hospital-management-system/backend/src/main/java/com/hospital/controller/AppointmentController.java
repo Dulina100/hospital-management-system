@@ -1,8 +1,8 @@
 package com.hospital.controller;
 
-import com.hospital.management.dto.AppointmentDTO;
-import com.hospital.management.entity.Appointment;
-import com.hospital.management.service.AppointmentService;
+import com.hospital.dto.AppointmentDTO;
+import com.hospital.entity.Appointment;
+import com.hospital.service.AppointmentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

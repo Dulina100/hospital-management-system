@@ -1,8 +1,8 @@
 package com.hospital.controller;
 
-import com.hospital.management.dto.PrescriptionDTO;
-import com.hospital.management.entity.Prescription;
-import com.hospital.management.service.PrescriptionService;
+import com.hospital.dto.PrescriptionDTO;
+import com.hospital.entity.Prescription;
+import com.hospital.service.PrescriptionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

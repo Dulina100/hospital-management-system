@@ -1,12 +1,12 @@
 package com.hospital.service;
 
-import com.hospital.management.dto.AppointmentDTO;
-import com.hospital.management.entity.Appointment;
-import com.hospital.management.entity.Doctor;
-import com.hospital.management.entity.Patient;
-import com.hospital.management.repository.AppointmentRepository;
-import com.hospital.management.repository.DoctorRepository;
-import com.hospital.management.repository.PatientRepository;
+import com.hospital.dto.AppointmentDTO;
+import com.hospital.entity.Appointment;
+import com.hospital.entity.Doctor;
+import com.hospital.entity.Patient;
+import com.hospital.repository.AppointmentRepository;
+import com.hospital.repository.DoctorRepository;
+import com.hospital.repository.PatientRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.time.LocalDateTime;

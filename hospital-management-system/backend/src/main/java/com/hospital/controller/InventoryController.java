@@ -1,8 +1,8 @@
 package com.hospital.controller;
 
-import com.hospital.management.dto.InventoryDTO;
-import com.hospital.management.entity.Inventory;
-import com.hospital.management.service.InventoryService;
+import com.hospital.dto.InventoryDTO;
+import com.hospital.entity.Inventory;
+import com.hospital.service.InventoryService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

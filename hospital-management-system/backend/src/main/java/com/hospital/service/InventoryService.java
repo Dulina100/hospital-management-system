@@ -1,8 +1,8 @@
 package com.hospital.service;
 
-import com.hospital.management.dto.InventoryDTO;
-import com.hospital.management.entity.Inventory;
-import com.hospital.management.repository.InventoryRepository;
+import com.hospital.dto.InventoryDTO;
+import com.hospital.entity.Inventory;
+import com.hospital.repository.InventoryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

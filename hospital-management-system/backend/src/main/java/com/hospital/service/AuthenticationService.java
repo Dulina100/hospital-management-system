@@ -1,10 +1,10 @@
 package com.hospital.service;
 
-import com.hospital.management.dto.LoginRequestDTO;
-import com.hospital.management.dto.LoginResponseDTO;
-import com.hospital.management.entity.User;
-import com.hospital.management.repository.UserRepository;
-import com.hospital.management.security.JwtTokenProvider;
+import com.hospital.dto.LoginRequestDTO;
+import com.hospital.dto.LoginResponseDTO;
+import com.hospital.entity.User;
+import com.hospital.repository.UserRepository;
+import com.hospital.security.JwtTokenProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

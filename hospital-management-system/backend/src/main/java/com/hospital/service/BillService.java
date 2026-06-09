@@ -1,10 +1,10 @@
 package com.hospital.service;
 
-import com.hospital.management.dto.BillDTO;
-import com.hospital.management.entity.Bill;
-import com.hospital.management.entity.Patient;
-import com.hospital.management.repository.BillRepository;
-import com.hospital.management.repository.PatientRepository;
+import com.hospital.dto.BillDTO;
+import com.hospital.entity.Bill;
+import com.hospital.entity.Patient;
+import com.hospital.repository.BillRepository;
+import com.hospital.repository.PatientRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.math.BigDecimal;

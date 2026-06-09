@@ -1,7 +1,7 @@
 package com.hospital.service;
 
-import com.hospital.management.entity.Bed;
-import com.hospital.management.repository.BedRepository;
+import com.hospital.entity.Bed;
+import com.hospital.repository.BedRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

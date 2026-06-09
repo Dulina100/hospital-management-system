@@ -1,8 +1,8 @@
 package com.hospital.service;
 
-import com.hospital.management.dto.UserDTO;
-import com.hospital.management.entity.Role;
-import com.hospital.management.repository.RoleRepository;
+import com.hospital.dto.UserDTO;
+import com.hospital.entity.Role;
+import com.hospital.repository.RoleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

@@ -1,8 +1,8 @@
 package com.hospital.service;
 
-import com.hospital.management.dto.DoctorDTO;
-import com.hospital.management.entity.Doctor;
-import com.hospital.management.repository.DoctorRepository;
+import com.hospital.dto.DoctorDTO;
+import com.hospital.entity.Doctor;
+import com.hospital.repository.DoctorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

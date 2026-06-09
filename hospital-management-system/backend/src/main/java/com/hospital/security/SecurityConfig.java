@@ -1,6 +1,6 @@
 package com.hospital.security;
 
-import com.hospital.management.security.JwtAuthenticationFilter;
+import com.hospital.security.JwtAuthenticationFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

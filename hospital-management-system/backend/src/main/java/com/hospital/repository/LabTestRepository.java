@@ -1,6 +1,6 @@
 package com.hospital.repository;
 
-import com.hospital.management.entity.LabTest;
+import com.hospital.entity.LabTest;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 import java.util.List;

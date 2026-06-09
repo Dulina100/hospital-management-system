@@ -1,8 +1,8 @@
 package com.hospital.controller;
 
-import com.hospital.management.dto.MedicalRecordDTO;
-import com.hospital.management.entity.MedicalRecord;
-import com.hospital.management.service.MedicalRecordService;
+import com.hospital.dto.MedicalRecordDTO;
+import com.hospital.entity.MedicalRecord;
+import com.hospital.service.MedicalRecordService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

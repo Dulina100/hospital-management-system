@@ -1,11 +1,11 @@
 package com.hospital.service;
 
-import com.hospital.management.entity.LabTest;
-import com.hospital.management.entity.LabTestResult;
-import com.hospital.management.entity.Patient;
-import com.hospital.management.repository.LabTestRepository;
-import com.hospital.management.repository.LabTestResultRepository;
-import com.hospital.management.repository.PatientRepository;
+import com.hospital.entity.LabTest;
+import com.hospital.entity.LabTestResult;
+import com.hospital.entity.Patient;
+import com.hospital.repository.LabTestRepository;
+import com.hospital.repository.LabTestResultRepository;
+import com.hospital.repository.PatientRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.time.LocalDateTime;

@@ -1,8 +1,8 @@
 package com.hospital.controller;
 
-import com.hospital.management.dto.BillDTO;
-import com.hospital.management.entity.Bill;
-import com.hospital.management.service.BillService;
+import com.hospital.dto.BillDTO;
+import com.hospital.entity.Bill;
+import com.hospital.service.BillService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

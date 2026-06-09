@@ -1,7 +1,7 @@
 package com.hospital.service;
 
-import com.hospital.management.entity.Nurse;
-import com.hospital.management.repository.NurseRepository;
+import com.hospital.entity.Nurse;
+import com.hospital.repository.NurseRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

@@ -8,7 +8,7 @@ import java.time.LocalDateTime;
 import java.math.BigDecimal;
 
 @Entity
-@Table(name = "bills")
+@Table(name = "Bills")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor

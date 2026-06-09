@@ -1,10 +1,10 @@
 package com.hospital.service;
 
-import com.hospital.management.dto.PatientDTO;
-import com.hospital.management.entity.Patient;
-import com.hospital.management.entity.User;
-import com.hospital.management.repository.PatientRepository;
-import com.hospital.management.repository.UserRepository;
+import com.hospital.dto.PatientDTO;
+import com.hospital.entity.Patient;
+import com.hospital.entity.User;
+import com.hospital.repository.PatientRepository;
+import com.hospital.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;

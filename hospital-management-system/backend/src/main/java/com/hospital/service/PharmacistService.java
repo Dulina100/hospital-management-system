@@ -1,7 +1,7 @@
 package com.hospital.service;
 
-import com.hospital.management.entity.Pharmacist;
-import com.hospital.management.repository.PharmacistRepository;
+import com.hospital.entity.Pharmacist;
+import com.hospital.repository.PharmacistRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
